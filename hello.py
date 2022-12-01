@@ -1,1 +1,1 @@
-print ("Hello Nunu! 🥰")
+print ("Hello Nunu!")
